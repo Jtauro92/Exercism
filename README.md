@@ -1,6 +1,6 @@
 # Exercism Python Exercises
 
-This repository contains my solutions to Python exercises from [Exercism](https://exercism.io).
+This repository contains my solutions to Python exercises from [Exercism](https://exercism.org).
 
 ## About Exercism
 
@@ -78,7 +78,7 @@ I recommend working through exercises in this order:
 
 ## Resources
 
-- [Exercism Python Track](https://exercism.io/tracks/python)
+- [Exercism Python Track](https://exercism.org/tracks/python)
 - [Python Official Documentation](https://docs.python.org/3/)
 - [PEP 8 Style Guide](https://www.python.org/dev/peps/pep-0008/)
 
